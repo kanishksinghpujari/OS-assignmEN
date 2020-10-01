@@ -42,3 +42,6 @@ reader_writer.c
 Assignment-8
 
 LAB8_diningPhilosopher_using_Semaphores
+
+Assignment-9
+Implement the dining philosophers problem using semaphore and monitor in C. 
