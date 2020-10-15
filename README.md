@@ -45,3 +45,7 @@ LAB8_diningPhilosopher_using_Semaphores
 
 Assignment-9
 Implement the dining philosophers problem using semaphore and monitor in C. 
+
+Assignment-10
+Write a program for FCFS ,SJF ,Priority and round robbin CPU scheduling in C.
+
